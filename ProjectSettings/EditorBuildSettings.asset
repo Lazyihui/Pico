@@ -8,5 +8,6 @@ EditorBuildSettings:
   m_configObjects:
     Unity.XR.PICO.LivePreview.Settings: {fileID: 11400000, guid: 4824599449da3904f8fafd7df2df0fcc, type: 2}
     Unity.XR.PXR.Settings: {fileID: 11400000, guid: 8626a2e4176a7784289a7afaa638b65c, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: 23272d43e64f66842bee7d2d619c52da, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 151ab5e41dd51c245902c198dacfe0ec, type: 2}
   m_UseUCBPForAssetBundles: 0
