@@ -10,6 +10,4 @@ public class RoleEntity : MonoBehaviour {
     public void Ctor() {
 
     }
-
-    
 }

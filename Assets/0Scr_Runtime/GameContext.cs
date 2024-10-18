@@ -9,6 +9,8 @@ public class GameContext {
 
     public RoleRepository roleRepository;
 
+    public AudioRepository audioRepository;
+
     // ctx
     public AssetsContext assetsContext;
 
@@ -17,6 +19,7 @@ public class GameContext {
 
         // repos
         roleRepository = new RoleRepository();
+        audioRepository = new AudioRepository();
 
         // ctx
         assetsContext = new AssetsContext();
