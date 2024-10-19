@@ -16,7 +16,7 @@ public class Main : MonoBehaviour {
 
         owner.id = ctx.gameEntity.OwnerID;
 
-        AudioEntity audio = AudioDomain.Spawn(ctx);
+        // AudioEntity audio = AudioDomain.Spawn(ctx);
         Debug.Log("Hello World");
     }
 
